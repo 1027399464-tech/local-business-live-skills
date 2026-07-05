@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Backup files from Hermes edits
+*.bak.*
+*.bak
+
+# Test/temp files
+test-prompts.json
+results.tsv
