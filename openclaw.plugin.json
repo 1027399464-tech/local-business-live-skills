@@ -1,5 +1,5 @@
 {
-  "name": "local-biz-growth-advisor",
+  "name": "local-business-live-cycle",
   "version": "1.0.0",
   "description": "AI operations advisor for local business stores — store diagnosis, short-video scripts, livestream acquisition, data review, content iteration.",
   "author": {
@@ -39,5 +39,13 @@
   "hosts": ["workbuddy", "openclaw", "claude-code"],
   "homepage": "https://github.com/1027399464-tech/local-business-live-skills",
   "issues": "https://app.notion.com/p/3a28278657fa81a796e8fc39dd5d5055",
-  "license": "MIT"
+  "license": "MIT",
+  "openclaw": {
+    "compat": {
+      "pluginApi": "1.0.0"
+    },
+    "build": {
+      "openclawVersion": "2.0.0"
+    }
+  }
 }
