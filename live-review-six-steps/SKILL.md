@@ -1,7 +1,9 @@
 ---
 name: live-review-six-steps
+slug: live-review-six-steps
+displayName: 直播复盘六部曲
 description: 直播复盘六部曲——每次播完后系统化复盘的方法论。从数据→节奏→商品→人群→短视频→流量结构六步诊断直播间问题，每步有合格线、问题定位、责任归属、优化方向。
-version: 1.0.0
+version: 2.3.5
 author: 李鑫 wiki
 source: /Users/py/wiki/wiki/数据运营/直播复盘六部曲.md
 tags: [直播复盘, 数据分析, 运营策略, 播后复盘]
